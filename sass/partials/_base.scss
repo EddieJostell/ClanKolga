@@ -1,0 +1,28 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+body, html {
+	height: 100%;
+	background-color: grey;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding-top: 1.5rem;
+}
+
+
+.box {
+	height: 100px;
+	width: 100px;
+	background-color: red;
+}
+
+.container-fluid {
+	padding-right: 0;
+	padding-left: 0;
+	//border: 1px solid white;
+}

@@ -1,0 +1,29 @@
+.navbar-trans {
+	background-color: black;
+	/* border: 1px solid white; */
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      z-index: 9999;
+	  //display: block!important;
+}
+.navbar-light .navbar-nav .nav-link {
+	color: white;
+	font-size: 1rem;
+	font-family: 'Century Gothic';
+	font-weight: bold;
+
+}
+
+.navbar-light .navbar-brand {
+	color: white;
+	font-size: 1rem;
+	font-family: 'Century Gothic';
+	font-weight: bold;
+}
+
+.navbar-toggler-icon {
+    -webkit-filter: invert(100%);
+        filter: invert(100%);
+}
