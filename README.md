@@ -1,2 +1,2 @@
 # ClanKolga
-Website for the KolgaFamily
+Website for the Kolga Family
