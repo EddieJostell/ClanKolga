@@ -19,17 +19,15 @@ const clanModule = (() => {
         },
 
         registerEventHandlers: function() {
-			/*document.getElementById("c9Games").addEventListener("click", c9Module.getResultsFromDatabase);*/
-			/*console.log("button working?");*/
+			
 		},
         
         initialize: (() => {
 			document.addEventListener('DOMContentLoaded', () => {
-				c9Module.pageScrollFunction();
-				c9Module.registerEventHandlers();
-				c9Module.getResultsFromDatabase();
-				c9Module.hideCollapsedNavbar();
-				c9Module.contactFormFunction();
+				clanModule.pageScrollFunction();
+				clanModule.registerEventHandlers();
+				clanModule.hideCollapsedNavbar();
+				
 			});
 		})()
     }

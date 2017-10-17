@@ -1,24 +1,19 @@
 * {
-	box-sizing: border-box;
+	
 	padding: 0;
 	margin: 0;
+	box-sizing: border-box;
 }
 
 body, html {
-	height: 100%;
-	background-color: grey;
+	border: 1px solid green;
+	max-height: 100%;
+	background-color: black;
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
 	background-attachment: fixed;
-	padding-top: 1.5rem;
-}
-
-
-.box {
-	height: 100px;
-	width: 100px;
-	background-color: red;
+	padding-top: 2rem;
 }
 
 .container-fluid {
@@ -27,18 +22,13 @@ body, html {
 	//border: 1px solid white;
 }
 
-.home {
- border: 1px solid red;
+
+.container {
+	//border: 1px solid white;
+	height: 100%;
 }
 
-.history {
-	border: 1px solid red;
-}
 
-.family {
-	border: 1px solid red;
-}
 
-.esti {
-	border: 1px solid red;
-}
+
+
