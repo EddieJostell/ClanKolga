@@ -1,35 +1,34 @@
 * {
-	
-	padding: 0;
-	margin: 0;
-	box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 
-body, html {
-	border: 1px solid green;
-	max-height: 100%;
-	background-color: darkgray; 
-	//background-image: url("../../img/estonia-flag.jpg");
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
-	background-attachment: fixed;
-	padding-top: 2rem;
+body,
+html {
+  border: 1px solid green;
+  max-height: 100%;
+  background-color: lightcoral;
+  //background-image: url("../../img/estonia-flag.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  padding-top: 2rem;
+}
+
+h1 {
+  text-align: center;
+  color: white;
 }
 
 .container-fluid {
-	padding-right: 0;
-	padding-left: 0;
-	//border: 1px solid white;
+  padding-right: 0;
+  padding-left: 0;
+  //border: 1px solid white;
 }
-
 
 .container {
-	//border: 1px solid white;
-	height: 100%;
+  //border: 1px solid white;
+  height: 100%;
 }
-
-
-
-
-
