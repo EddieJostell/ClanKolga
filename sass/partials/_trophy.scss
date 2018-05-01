@@ -1,5 +1,5 @@
 .trophy {
-  border: 1px solid red;
+  //border: 1px solid red;
   width: 100%;
   height: auto;
   margin-top: 1rem;
@@ -8,11 +8,7 @@
         text-align: center;
     }
 
-  .box3 {
-    width: 200px;
-    height: 900px;
-    background-color: orange;
-    margin: 0 auto;
-  }
-
+    .trophy-container {
+      padding: 0 30px;
+    }
 }

@@ -1,10 +1,14 @@
 .events {
-    border: 1px solid red;
+    //border: 1px solid red;
 	width:100%;
     height: auto;
     margin-top: 1rem;
 
-      h1 {
+      h1,h4 {
         text-align: center;
     }
+
+   p {
+       text-align: center;
+   }
 }

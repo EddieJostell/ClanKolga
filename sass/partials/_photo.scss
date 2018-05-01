@@ -1,11 +1,21 @@
 .photo {
-  border: 1px solid red;
+  //border: 1px solid red;
   width: 100%;
   height: auto;
   margin-top: 1rem;
 
   h1 {
     text-align: center;
+     margin-bottom: 30px;
   }
+
+  img {
+    width: 100%;
+  }
+
+  .text {
+    color: white;
+  }
+
 
 }
