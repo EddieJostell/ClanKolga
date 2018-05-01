@@ -1,10 +1,13 @@
 .home {
-  border: 1px solid red;
+  //border: 1px solid red;
   width: 100%;
   height: auto;
   margin-top: 1rem;
 
-
+  h1 {
+    font-size: 120px;
+    text-align: center;
+  }
 }
 
 .box {

@@ -1,13 +1,14 @@
 .eesti {
-	border: 1px solid red;
+	
 	width:100%;
     height: auto;
     margin-top: 1rem;
-}
 
-.box3 {
-    width: 200px;
-    height: 900px;
-    background-color: black;
-    margin: 0 auto;
+      h1 {
+        text-align: center;
+    }
+
+    .eesti-text {
+        padding: 0 30px;
+    }
 }
