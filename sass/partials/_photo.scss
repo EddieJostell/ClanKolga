@@ -3,6 +3,7 @@
   width: 100%;
   height: auto;
   margin-top: 1rem;
+  margin-bottom: 100px;
 
   h1 {
     text-align: center;
@@ -17,5 +18,9 @@
     color: white;
   }
 
+  .myFlex {
+    display: flex;
+    justify-content: flex-end;
+  }
 
 }

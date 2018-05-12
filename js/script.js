@@ -24,7 +24,7 @@ const clanModule = (() => {
 
     initialize: (() => {
       document.addEventListener("DOMContentLoaded", () => {
-        clanModule.pageScrollFunction();
+        // clanModule.pageScrollFunction();
         clanModule.registerEventHandlers();
         clanModule.hideCollapsedNavbar();
         clanModule.imageSlider();
